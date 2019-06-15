@@ -1,0 +1,26 @@
+[
+    {
+        "imagePath": "images/CapillaryTech.svg",
+        "title": "Jenga",
+        "description": "Best",
+        "genere": "Arcade",
+        "ratings": "10.0",
+        "isEditorChoice": true
+    },
+    {
+        "imagePath": "images/CapillaryTech.svg",
+        "title": "Tic tac toe",
+        "description": "Best",
+        "genere": "Arcade",
+        "ratings": "10.0",
+        "isEditorChoice": true
+    },
+    {
+        "imagePath": "images/CapillaryTech.svg",
+        "title": "Snake",
+        "description": "Best",
+        "genere": "Arcade",
+        "ratings": "10.0",
+        "isEditorChoice": false
+    }
+]

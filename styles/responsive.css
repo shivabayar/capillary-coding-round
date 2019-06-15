@@ -1,0 +1,9 @@
+@media screen and (max-width: 930px) {
+    #search-results-container > .search-result {
+        width: 45%;
+    }
+
+    .search-bar .btn-group{
+        width: 90%;
+    }
+}
